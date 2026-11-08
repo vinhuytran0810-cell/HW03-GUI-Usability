@@ -1,0 +1,4 @@
+/eshop-sut/
+node_modules/
+.env
+*.sqlite
