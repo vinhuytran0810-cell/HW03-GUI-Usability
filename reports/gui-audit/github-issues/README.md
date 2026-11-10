@@ -1,0 +1,25 @@
+# GitHub Issues đã tạo
+
+- [[BUG-021][GUI-Registration] Nút thao tác chính của Đăng ký có màu đỏ thay vì xanh dương](https://github.com/vinhuytran0810-cell/HW03-GUI-Usability/issues/21)
+- [[BUG-020][GUI-Profile] Trạng thái lịch sử đơn hàng trống không có hình minh họa](https://github.com/vinhuytran0810-cell/HW03-GUI-Usability/issues/20)
+- [[BUG-019][GUI-Profile] Thao tác đăng xuất có nhãn “Thoát” thay vì “Đăng xuất”](https://github.com/vinhuytran0810-cell/HW03-GUI-Usability/issues/19)
+- [[BUG-018][GUI-Profile] Xác thực số điện thoại hồ sơ hiển thị trong hộp thoại trình duyệt](https://github.com/vinhuytran0810-cell/HW03-GUI-Usability/issues/18)
+- [[BUG-017][GUI-ForgotPassword] Biểu mẫu đặt lại hiển thị hộp thoại mật khẩu yếu; chưa xác minh phản hồi OTP](https://github.com/vinhuytran0810-cell/HW03-GUI-Usability/issues/17)
+- [[BUG-016][GUI-ForgotPassword] Email khôi phục sai định dạng tạo hộp thoại trình duyệt thay vì xác thực nội tuyến](https://github.com/vinhuytran0810-cell/HW03-GUI-Usability/issues/16)
+- [[BUG-015][GUI-ForgotPassword] Hướng dẫn OTP yêu cầu bốn chữ số thay vì sáu](https://github.com/vinhuytran0810-cell/HW03-GUI-Usability/issues/15)
+- [[BUG-014][GUI-ForgotPassword] Luồng Quên mật khẩu không có chỉ báo bước](https://github.com/vinhuytran0810-cell/HW03-GUI-Usability/issues/14)
+- [[BUG-013][GUI-ForgotPassword] Bước đầu Quên mật khẩu không có điều khiển quay lại Đăng nhập](https://github.com/vinhuytran0810-cell/HW03-GUI-Usability/issues/13)
+- [[BUG-012][GUI-Login] Thứ tự Tab ở Đăng nhập đưa liên kết Đăng ký lên trước nút gửi](https://github.com/vinhuytran0810-cell/HW03-GUI-Usability/issues/12)
+- [[BUG-011][GUI-Multiple] Mục điều hướng Đăng ký và Đăng nhập không được đánh dấu là trang hiện tại](https://github.com/vinhuytran0810-cell/HW03-GUI-Usability/issues/11)
+- [[BUG-010][GUI-Login] Thông báo xác thực Đăng nhập xuất hiện bên dưới nút gửi](https://github.com/vinhuytran0810-cell/HW03-GUI-Usability/issues/10)
+- [[BUG-009][GUI-Login] Màn hình Đăng nhập có nhãn hiển thị cho người dùng bằng tiếng Anh](https://github.com/vinhuytran0810-cell/HW03-GUI-Usability/issues/9)
+- [[BUG-008][GUI-Login] Trường mật khẩu Đăng nhập không che ký tự đã nhập](https://github.com/vinhuytran0810-cell/HW03-GUI-Usability/issues/8)
+- [[BUG-007][GUI-Registration] Hướng dẫn mật khẩu Đăng ký không liệt kê ký tự đặc biệt được phép](https://github.com/vinhuytran0810-cell/HW03-GUI-Usability/issues/7)
+- [[BUG-006][GUI-Multiple] Trường bắt buộc thiếu dấu hoa thị hiển thị](https://github.com/vinhuytran0810-cell/HW03-GUI-Usability/issues/6)
+- [[BUG-005][GUI-ForgotPassword] Biểu mẫu đặt lại mật khẩu không có trường xác nhận mật khẩu](https://github.com/vinhuytran0810-cell/HW03-GUI-Usability/issues/5)
+- [[BUG-004][GUI-Registration] Biểu mẫu Đăng ký không có trường xác nhận mật khẩu](https://github.com/vinhuytran0810-cell/HW03-GUI-Usability/issues/4)
+- [[BUG-003][GUI-Multiple] Trường email ở Đăng ký, Đăng nhập và Quên mật khẩu dùng kiểu nhập văn bản](https://github.com/vinhuytran0810-cell/HW03-GUI-Usability/issues/3)
+- [[BUG-002][GUI-Login] Tiêu đề trang đích Đăng nhập lại ghi là Đăng ký](https://github.com/vinhuytran0810-cell/HW03-GUI-Usability/issues/2)
+- [[BUG-001][GUI-Multiple] Các trang được chọn thiếu tiêu đề H1 theo yêu cầu](https://github.com/vinhuytran0810-cell/HW03-GUI-Usability/issues/1)
+
+Đã xác minh đủ 21 Issues và 34 screenshot khớp SHA với tệp bằng chứng gốc. Không chạy lại kiểm thử hoặc sửa source EShop. Label confirmed chưa tồn tại.
